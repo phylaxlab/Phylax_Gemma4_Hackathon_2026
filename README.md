@@ -4,9 +4,15 @@ AI-powered video surveillance review for uploaded clips and live IP/MJPEG camera
 Phylax uses a local Ollama vision model to summarize events, search timelines,
 answer investigation questions, and generate concise reports.
 
-[Live demo](https://phylax-cam.com/)
-
-Tags: `AI video surveillance`, `computer vision`, `Gemma 4`, `Ollama`, `FastAPI`, `Vite`, `MJPEG`, `IP cameras`, `Cloudflare Tunnel`
+[![demo](https://img.shields.io/badge/demo-phylax--cam.com-2ea44f)](https://phylax-cam.com/)
+![AI video surveillance](https://img.shields.io/badge/AI-video%20surveillance-5b5fc7)
+![computer vision](https://img.shields.io/badge/computer-vision-0a7ea4)
+![Gemma 4](https://img.shields.io/badge/Gemma-4-7b61ff)
+![Ollama](https://img.shields.io/badge/Ollama-local%20vision-111827)
+![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688)
+![Vite](https://img.shields.io/badge/Vite-frontend-646cff)
+![MJPEG](https://img.shields.io/badge/MJPEG-live%20camera-e85d04)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare-Tunnel-f38020)
 
 ![Phylax architecture](./phylax-system-architecture-review-ui-logo.png)
 
