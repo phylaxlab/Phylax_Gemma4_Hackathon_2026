@@ -1,6 +1,6 @@
 # Phylax
 
-AI-powered video surveillance review for uploaded clips and live IP/MJPEG cameras.
+AI-powered video surveillance review system for uploaded clips and live IP/MJPEG cameras.
 Phylax uses a local Ollama vision model to summarize events, search timelines,
 answer investigation questions, and generate concise reports.
 
@@ -14,6 +14,10 @@ answer investigation questions, and generate concise reports.
 ![MJPEG](https://img.shields.io/badge/MJPEG-live%20camera-e85d04)
 ![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare-Tunnel-f38020)
 
+## Demo Video
+[![Phylax Demo](https://img.youtube.com/vi/H_Nnx6wtxnU/maxresdefault.jpg)](https://youtu.be/H_Nnx6wtxnU)
+
+## System Architecture
 ![Phylax architecture](./phylax-system-architecture-review-ui-logo.png)
 
 ## Features
@@ -120,7 +124,3 @@ server/routers/    API routes
 server/services/   AI, camera, search, report, and cleanup logic
 server/data/       Runtime DB/media, ignored by git
 ```
-
-## License
-
-Add your preferred open-source license before publishing.
